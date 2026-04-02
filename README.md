@@ -22,16 +22,16 @@ I co-founded OBK LLC, where we build AI agent systems and workflow automation fo
 
 ## Featured Projects
 
-Some client names are kept confidential.
+Some client names are kept confidential. Click any project for the full case study.
 
 | Project | What it does | Results | Core stack |
 |---------|-------------|---------|------------|
-| **Humaix** | Multi-tenant AI agent platform (SaaS) for businesses to build and manage their own AI agents | 26 DB tables, 5-layer permission system, hybrid memory with pgvector | Next.js, React, FastAPI, Claude Agent SDK, PostgreSQL |
-| **AI Support Automation** | End-to-end ticket handling and automated email responses for an online academy | 67% faster response time, ~800 emails/month automated | n8n, OpenAI, Supabase, pgvector, RAG, HubSpot API |
-| **Edulitix Content Pipeline** | Autonomous content production from keyword research to multi-channel publishing | 16 SEO articles/month, research to publish fully automated | n8n, Claude, DataForSEO, Wix Blog API, Instagram/LinkedIn API |
-| **Order Processing Automation** | Email order parsing, validation, and ERP delivery for an ISO-certified manufacturer | Processing time from 45-90 min down to ~5 min per order | n8n, OpenAI, PostgreSQL, Alpine.js, Docker, legacy ERP |
-| **B2B Lead Generation** | Lead discovery, AI-personalized outreach, and reply classification with GDPR compliance | 3 active clients, 8-status state machine | n8n, GPT-4o-mini, Apify, Playwright, Google Suite |
-| **TradeWizz** | Amazon FBA/arbitrage SaaS with real-time scanning across 18 marketplaces (co-founded) | 7+ microservices, 100+ REST endpoints, 4 years in production | Vue 3, Next.js, PostgreSQL, MongoDB, Redis, Kafka, AWS |
+| [**Humaix**](https://github.com/burakcanpolat/humaix-ai-agent-platform) | Multi-tenant AI agent platform (SaaS) for businesses to build and manage their own AI agents | 10 agents, 15+ skills, 11 MCP integrations | Next.js, React, FastAPI, Claude Agent SDK, PostgreSQL |
+| [**AI Support Automation**](https://github.com/burakcanpolat/ai-support-automation) | End-to-end ticket handling and automated email responses for an online academy | 67% faster response time, ~800 emails/month automated | n8n, OpenAI, Supabase, pgvector, RAG, HubSpot API |
+| [**Edulitix Content Pipeline**](https://github.com/burakcanpolat/edulitix-content-automation) | Autonomous content production from keyword research to multi-channel publishing | 16 SEO articles/month, fully automated | n8n, Claude, DataForSEO, Wix Blog API, Instagram/LinkedIn API |
+| [**Order Processing Automation**](https://github.com/burakcanpolat/order-processing-automation) | Email order parsing, validation, and ERP delivery for an ISO-certified manufacturer | 45-90 min down to ~5 min per order | n8n, OpenAI, PostgreSQL, Alpine.js, Docker, legacy ERP |
+| [**B2B Lead Generation**](https://github.com/burakcanpolat/b2b-lead-generation) | Lead discovery, AI-personalized outreach, and reply classification with GDPR compliance | 3 active clients, GDPR-compliant pipeline | n8n, GPT-4o-mini, Apify, Playwright, Google Suite |
+| [**TradeWizz**](https://github.com/burakcanpolat/tradewizz-amazon-saas) | Amazon FBA/arbitrage SaaS with real-time scanning across 18 marketplaces (co-founded) | 7+ microservices, 100+ endpoints, 4 years | Vue 3, Next.js, PostgreSQL, MongoDB, Redis, Kafka, AWS |
 
 ## Experiments
 
